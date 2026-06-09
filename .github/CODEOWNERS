@@ -1,0 +1,6 @@
+# CODEOWNERS file
+# Specifies code owners for files in this repository.
+# Files not listed here (hello.js, hello.rb, hello.go) have no assigned owner.
+
+/hello.py @jon-p-keller
+/hello.sh jon.p.keller@intel.com
